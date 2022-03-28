@@ -16,10 +16,9 @@ The notebooks contain code for the following analyses and data:
   - Cao et al., Science, 2020, 10.1126/science.aba7721  
   - Descartes: [Download](https://descartes.brotmanbaty.org/bbi/human-gene-expression-during-development/)  
 
-- _human_invitro_Veres2019.ipynb_: 
-  - Analysis of in vitro differentiated human pancreatic epithelial cells  
-    - Veres et al., Nature, 2019, https://doi.org/10.1038/s41586-019-1168-5  
-    - GEO: [GSE114412](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114412), GSE114412_Stage_5.all.processed_counts.tsv.gz)  
+- _human_invitro_Veres2019.ipynb_: Analysis of in vitro differentiated human pancreatic epithelial cells  
+  - Veres et al., Nature, 2019, https://doi.org/10.1038/s41586-019-1168-5  
+  - GEO: [GSE114412](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE114412), GSE114412_Stage_5.all.processed_counts.tsv.gz)  
 
 
 Note that the analysis was done with scanpy v1.4. Some functions have changed in newer versions of scanpy. For other package versions please consult the notebook. Numeric results can vary depending on package versions and e.g. affect clustering.
